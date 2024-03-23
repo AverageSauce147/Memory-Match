@@ -1,0 +1,52 @@
+[
+    {
+        "image": "../assets/crosswalk.png",
+        "name": "crosswalk",
+        "content": "Oversteekplaatsen - Als je een oversteekplaats oversteekt, zorg er dan voor dat je communiceert met tegemoetkomende fietsers om ervoor te zorgen dat ze afremmen, en als je een fietspad oversteekt dat niet aan een oversteekplaats ligt, zorg er dan voor dat er geen fietsers in de buurt zijn."
+    },
+    {
+        "image": "../assets/giveway.png",
+        "name": "giveway",
+        "content": "Voorrang verlenen - Als je andere fietsers voor je wilt laten gaan, gebruik dan dit signaal om hen te laten weten dat ze veilig voor je kunnen gaan rijden."
+    },
+    {
+        "image": "../assets/mandatorycycle.png",
+        "name": "mandatorycycle",
+        "content": "Verplicht fietspad - Op wegen met dit bord moet je met je fiets of bromfiets op de fietspaden rijden en mag je geen andere wegen gebruiken."
+    },
+    {
+        "image": "../assets/pedestriansonly.png",
+        "name": "pedestriansonly",
+        "content": "Alleen voetgangers - Dit bord geeft aan dat het pad alleen bestemd is voor voetgangers en dat het verboden is om met een brommer of fiets over dit pad te rijden."
+    },
+    {
+        "image": "../assets/roadhazard.png",
+        "name": "roadhazard",
+        "content":"Gevaar op de weg - Als je een gevaar op de weg of een kuil nadert, gebruik dan dit signaal om andere fietsers te laten weten dat je dit gevaar vermijdt en om hen te waarschuwen voor het gevaar op de weg."
+    },
+    {
+        "image": "../assets/schoolzone.png",
+        "name": "schoolzone",
+        "content": "15 km/u schoolzone - In de meeste schoolgebieden geldt een snelheidslimiet van 15 km/u, dus zorg ervoor dat je oplet of er kinderen in de buurt van de fietspaden zijn en communiceer met de leerlingen over het feit dat ze voorrang moeten krijgen bij het oversteken van de weg."
+    },
+    {
+        "image": "../assets/slowingdown.png",
+        "name": "slowingdown",
+        "content": "Vertragen - Gebruik dit handsignaal altijd wanneer je vertraagt of snel op de rem trapt, zodat andere fietsers weten dat je vertraagt en de kans op een ongeval verkleint."
+    },
+    {
+        "image": "../assets/stopping.png",
+        "name": "stopping",
+        "content": "Stoppen - Als je gaat stoppen, gebruik dan altijd dit handsignaal om fietsers om je heen te laten weten dat je stopt en de kans te verkleinen dat ze op je botsen."
+    },
+    {
+        "image": "../assets/turnleft.png",
+        "name": "turnleft",
+        "content": "Links afslaan - Gebruik dit handsignaal altijd als je links afslaat op een kruispunt om andere fietsers in de buurt te informeren over je afslag en de kans op een ongeluk te minimaliseren. Probeer dit signaal ruim voor het afslaan te gebruiken, zodat je je handen weer op de fietsgreep kunt plaatsen voor een comfortabele draai."
+    },
+    {
+        "image": "../assets/yield.png",
+        "name": "yield",
+        "content": "Waar dit bord ook staat, je moet ervoor afremmen om er zeker van te zijn dat er geen kruisend verkeer op het pad is en als dat er wel is, moet je voorrang verlenen aan het kruisende verkeer."
+    }
+]
